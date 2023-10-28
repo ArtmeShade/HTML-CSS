@@ -1,0 +1,104 @@
+.First_sticker {
+    display: flex;
+    justify-content: center;
+    margin-top: -130px;
+}
+.First_sticker_img {
+    width: 1600px
+}
+header {
+    background-color:  #111111;
+    overflow: hidden;
+}
+.Geometry {
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.Geometry_img2 {
+    display: flex;
+    justify-content: right;
+    margin-left: 100px;
+}
+body {
+    background-color:  #111111;
+}
+.Language_img1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+    margin-bottom: 10%;
+}
+.Paper2 {
+    color: #F72746;
+    text-align: center;
+    font-family: Gerbera-Medium;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -50%;
+    margin-bottom: 10%;
+}
+.Line1 {
+    color: #FFF;
+    font-family: Gerbera-Bold;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10%;
+}
+.Line2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Gerbera;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Compare {
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.Head_Text2 {
+    margin-bottom: -15%;
+}
+.Union {
+    width: 100%;
+}
+.Only_white {
+    display: flex;
+    justify-content: center;
+}
+.Head_Texts3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Gerbera-Bold;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Glyph {
+    width: 100%;
+    background-color:  #111111;
+    overflow: hidden;
+}
+.Glyph_img1 {
+    display: flex;
+    justify-content: center;
+
+}
+.Number2 {
+    display: flex;
+    justify-content: center;
+}
+.ЕЭ {
+    position: relative;
+    margin-bottom: 5%;
+}
+.Radio {
+    margin-right: auto;
+}
